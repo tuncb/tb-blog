@@ -1,3 +1,8 @@
+---
+layout: post
+title: In de tram
+---
+
 # In de tram
 
 Mijn vriend en ik reden met de tram.
